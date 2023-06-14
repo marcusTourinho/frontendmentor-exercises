@@ -51,7 +51,7 @@
 #result-container {
   background: linear-gradient(to bottom, var(--lightslateblue), var(--lightroyalblue));
   color: var(--white);
-  border-radius: 30px
+  border-radius: 30px;
 }
 
 #reuslt-text {
@@ -100,11 +100,16 @@ h2 {
 }
 
 .sum-itens {
-  padding: 1rem 0;
+  padding: 16px 10px 16px 10px;
   display: flex;
   justify-content: space-between;
+  align-items: center;
   border-radius: 10px;
   margin: 0.5rem 0;
+}
+
+.name-img {
+  display: flex;
 }
 
 #continue-btn {
@@ -136,6 +141,10 @@ h2 {
 
 #visual {
   background-color: var(--bgblue);
+}
+
+#react-item,#mem-item,#verb-item,#vis-item {
+  padding-left: 10px;
 }
 
 #react-item {
