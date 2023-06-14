@@ -25,8 +25,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](./my-solution/my-solution.PNG)
-![](./my-solution/my-solution-responsive.PNG)
+![](./my-solution/my-solution2.PNG)
+![](./my-solution/my-solution-responsive2.PNG)
 
 ## My process
 
